@@ -1,0 +1,25 @@
+{
+  "name": "rzcore-api-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "author": "robizona",
+  "license": "ISC",
+  "dependencies": {
+    "@google-translate-select/vue3": "^0.1.1",
+    "@jridgewell/sourcemap-codec": "^1.5.0",
+    "vitepress": "^1.0.0-alpha.72",
+    "vitepress-plugin-auto-sidebar": "^1.0.6",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "flexsearch": "^0.7.31",
+    "markdown-it": "^13.0.1",
+    "vitepress-plugin-search": "^1.0.4-alpha.19"
+  }
+}
