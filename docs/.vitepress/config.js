@@ -1,7 +1,7 @@
 import { getSidebar } from "vitepress-plugin-auto-sidebar";
 
 export default {
-  base: "/RZCore_Doc/",
+  base: "/rz_website/",
   title: "RobiZona",
   description: "RobiZona",
   lastUpdated: true,
@@ -17,7 +17,7 @@ export default {
     logo: "/logo.png",
     editLink: {
       pattern:
-        "https://github.com/robizona/rzcore_doc/edit/main/docs/:path",
+        "https://github.com/robizona/rz_website/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
     siteTitle: "RobiZona",

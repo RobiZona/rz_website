@@ -1,4 +1,4 @@
-# RZCore_Documentation
+# rz_website
 > This is the repo for RZCore Framework documentation and website!
 ## How to setup
 1. Clone this repo
@@ -7,7 +7,7 @@
 4. Navigate to the project director
 5. Run `npm install`
 6. Run `npm run docs:dev`
-7. You should now be able to see a local version of the site running on `http://localhost:5173/RZCore_Doc/`
+7. You should now be able to see a local version of the site running on `http://localhost:5173/rz_website/`
 ## File Structure
   docs -> vitepress (App settings)
   docs -> api (API Doc folder) -> API Doc Pages.md
